@@ -90,6 +90,8 @@ node practice-01/js/debug.js
 
 ## 7. Отладка (`debug.js`)
 
+Иллюстрация остановленной программы: [`screenshots/debug-breakpoint.png`](./screenshots/debug-breakpoint.png).
+
 **Исходный (ошибочный) вывод:**
 
 ```text
